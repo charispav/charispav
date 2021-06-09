@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @charispav
 - 👀 I’m interested in Software Engineering and Telecommunication Netwokrs
 - 🌱 I’m currently learning C# in .NET Framework 4.5.2 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: pavlidis.charis@gmail.com, LinkedIn: www.linkedin.com/in/charalampos-pavlidis
 
 <!---
